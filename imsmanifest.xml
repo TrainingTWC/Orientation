@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<manifest identifier="AsKrFynkuVjn3U7TKODbvsCV_GhKH-2-CqVw0Hmm" version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location> 
+  </metadata>
+  <organizations default="articulate_rise">
+      <organization identifier="articulate_rise">
+      <title>ORIENTATION</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>ORIENTATION</title>
+        <adlcp:datafromlms>eyJjcHYiOiJDcVZ3MEhtbSIsInJsZCI6ZmFsc2V9</adlcp:datafromlms>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="scormdriver/indexAPI.html">
+      <!-- SCORMDRIVER STUFF -->
+      <file href="scormdriver/indexAPI.html" />
+      <file href="scormdriver/preloadIntegrity.js" />
+      <file href="scormdriver/driverOptions.js" />
+      <file href="scormdriver/AICCComm.html" />
+      <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      <file href="scormdriver/auto-scripts/CourseExit.js" />
+      <file href="scormdriver/blank.html" />
+      <file href="scormdriver/goodbye.html" />
+      <file href="scormdriver/scormdriver.js" />
+      <file href="scormdriver/browsersniff.js" />
+
+      <!-- RUNTIME COMMON STUFF -->
+      <file href="scormcontent/index.html" />
+
+      
+        <file href="scormcontent/lib/fonts/icomoon.ttf"/>
+        <file href="scormcontent/lib/fonts/icomoon.woff"/>
+
+        <file href="scormcontent/lib/icomoon.css"/>
+        <file href="scormcontent/lib/player-0.0.11.min.js"/>
+        <file href="scormcontent/lib/lzwcompress.js"/>
+      
+
+      <!-- FRONTEND BUNDLE ASSETS -->
+      <file href="scormcontent/lib/rise/ab1501b7.js" />
+<file href="scormcontent/lib/rise/02ed395c.css" />
+<file href="scormcontent/lib/rise/2afbcd6a.js" />
+<file href="scormcontent/lib/rise/ff488d1d.css" />
+<file href="scormcontent/lib/rise/a5a1a5be.js" />
+<file href="scormcontent/lib/rise/254e83dc.js" />
+<file href="scormcontent/lib/rise/c82cca6a.js" />
+<file href="scormcontent/lib/rise/40b4cf18.js" />
+<file href="scormcontent/lib/rise/b2cebec4.js" />
+<file href="scormcontent/lib/rise/a607e3d7.js" />
+<file href="scormcontent/lib/mondrian/entry.js" />
+<file href="scormcontent/lib/mondrian/ab103845.js" />
+<file href="scormcontent/lib/mondrian/89c7aadd.js" />
+<file href="scormcontent/lib/mondrian/8bb81729.js" />
+<file href="scormcontent/lib/mondrian/daeabcf0.js" />
+<file href="scormcontent/lib/mondrian/df9aa619.js" />
+<file href="scormcontent/lib/mondrian/09e37aee.js" />
+<file href="scormcontent/lib/mondrian/196251cf.js" />
+<file href="scormcontent/lib/sandbox/sandbox.html" />
+<file href="scormcontent/lib/sandbox/b8fc6988.js" />
+<file href="scormcontent/lib/sandbox/4adfab46.css" />
+
+
+      <!-- RUNTIME CONTENT STUFF -->
+      <file href="scormcontent/lib/fonts/Inter-Medium.woff" />
+<file href="scormcontent/lib/fonts/Inter-Black.woff" />
+<file href="scormcontent/lib/fonts/Inter-Bold.woff" />
+<file href="scormcontent/lib/fonts/Inter-Regular.woff" />
+<file href="scormcontent/lib/fonts/Inter-Light.woff" />
+<file href="scormcontent/assets/8fZ6rs4JxwX2CKld.jpg" />
+<file href="scormcontent/assets/Cover.png" />
+<file href="scormcontent/assets/Ayush%20Bathwal%20_%20TWC.mp4" />
+<file href="scormcontent/assets/Ayush%20Bathwal%20_%20TWC.jpg" />
+<file href="scormcontent/assets/Screenshot_20250127_131102_Instagram.jpg" />
+<file href="scormcontent/assets/Untitled-1.jpg" />
+<file href="scormcontent/assets/anirudh.jpg.jpg" />
+<file href="scormcontent/assets/PwoPxy/Untitled-1.jpg" />
+<file href="scormcontent/assets/GSHoOJ/Untitled-1.jpg" />
+<file href="scormcontent/assets/sarit.jpg" />
+<file href="scormcontent/assets/Notes_250128_162503_130.png" />
+<file href="scormcontent/assets/Anirudh%20Sharma%20Updated%20Video.mp4" />
+<file href="scormcontent/assets/Anirudh%20Sharma%20Updated%20Video.jpg" />
+<file href="scormcontent/assets/uhy7r81k.jpg" />
+<file href="scormcontent/assets/q817s4go.jpg" />
+<file href="scormcontent/assets/Screenshot_20250116_160421_Instagram.jpg" />
+<file href="scormcontent/assets/Screenshot_20250116_160841_Instagram.jpg" />
+<file href="scormcontent/assets/20250116_161543.jpg" />
+<file href="scormcontent/assets/Notes_250128_171616_160.jpg" />
+<file href="scormcontent/assets/Your%20Day%20At%20TWC.mp4" />
+<file href="scormcontent/assets/Your%20Day%20At%20TWC.jpg" />
+<file href="scormcontent/assets/res.%20%281%29_pages-to-jpg-0001.jpg" />
+<file href="scormcontent/assets/Respect%20-%20Made%20with%20Clipchamp.mp4" />
+<file href="scormcontent/assets/Respect%20-%20Made%20with%20Clipchamp.jpg" />
+<file href="scormcontent/assets/Picture1.jpg" />
+<file href="scormcontent/assets/LEAST%20PNG.jpg" />
+<file href="scormcontent/assets/mZVWF2uuSizS3FCk.png" />
+
+      <file href="scormcontent/locales/und.js" />
+
+    </resource>
+  </resources>
+</manifest>
